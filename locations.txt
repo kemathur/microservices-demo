@@ -1,0 +1,4 @@
+sockshop: localhost:8888
+scope:    localhost:4040
+grafana:  localhost:3000
+kibana:   localhost:5601
